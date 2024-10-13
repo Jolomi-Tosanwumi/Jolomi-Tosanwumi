@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am Jolomi Tosanwumi, glad you made it to my profile 😊.
+
+I am a data scientist 🚀 with over 5 years experience working with data. My expertise spans financial services and research, where I apply data science and machine learning 🤖 to solve complex problems and help organizations achieve their goals. I am passionate about working with data and I specialize ⚡ in using machine learning and deep learning for descriptive, diagnostic, predictive, and prescriptive analytics 🌱.
+
+Feel free to check out [my website](https://jolomi-tosanwumi.github.io/) 🌐 to learn more about me.
+
+You can reach reach me 📫 via any of channels under shown under my profile picture, I am happy to chat 💬.
+
+
+
 <!--
 **Jolomi-Tosanwumi/Jolomi-Tosanwumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
