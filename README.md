@@ -6,7 +6,7 @@ I am a data scientist 🚀 with over 5 years experience working with data. My ex
 
 Feel free to check out [my website](https://jolomi-tosanwumi.github.io/) 🌐 to learn more about me.
 
-You can reach reach me 📫 via any of platforms shown under my profile picture, I am happy to chat 💬.
+You can reach reach me 📫 via any of platforms shown under my profile picture 👈, I am happy to chat 💬.
 
 
 
